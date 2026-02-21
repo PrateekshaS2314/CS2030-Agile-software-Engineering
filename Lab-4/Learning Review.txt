@@ -1,0 +1,16 @@
+Learning Review:
+
+Correct assumptions:
+Students need to browse and enroll in courses.
+
+Wrong assumptions:
+We initially did not include drop course feature.
+
+New information:
+Stakeholders requested ability to drop courses.
+
+Adaptation:
+We added new user story "Drop Course" and updated priorities.
+
+Conclusion:
+The project evolved based on feedback and learning, demonstrating ASD adaptability.
