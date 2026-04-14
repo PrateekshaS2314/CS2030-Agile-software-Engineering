@@ -1,0 +1,2 @@
+This simulation demonstrated that sprint planning is a collaborative decision-making process that balances scope, priority, capacity, and risk.
+It highlighted the importance of realistic planning and maintaining flexibility while protecting sprint commitments.
